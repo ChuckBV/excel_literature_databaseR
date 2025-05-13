@@ -1,4 +1,4 @@
-# y25_excel_lit_database
+# excel_literature_databaseR
 
 ***Objective***: Use tidyr to organize a collection of references by key topics
 
